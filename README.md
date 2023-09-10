@@ -15,13 +15,18 @@ git clone https://github.com/marvin211/ProjeTask-frontend.git
 
 2. Navega hasta el directorio del proyecto:
 ```bash
-cd react-ecommerce
+cd ProjeTask-frontend
 ```
 
 3. Para instalar las dependencias del proyecto, ejecutar el siguiente comando:
 ```bash
 npm install
 ```
+
+4. Crea un archivo .env en la raíz del proyecto y agrega la siguiente variable de entorno:
+    ```bash
+    VITE_APP_BACKEND_URL=<URL del backend>
+    ```
 
 ## Uso
 1. Inicia el servidor de desarrollo:
