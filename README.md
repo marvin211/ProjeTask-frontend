@@ -24,9 +24,9 @@ npm install
 ```
 
 4. Crea un archivo .env en la raíz del proyecto y agrega la siguiente variable de entorno:
-    ```bash
-    VITE_APP_BACKEND_URL=<URL del backend>
-    ```
+```bash
+VITE_APP_BACKEND_URL=<URL del backend>
+```
 
 ## Uso
 1. Inicia el servidor de desarrollo:
